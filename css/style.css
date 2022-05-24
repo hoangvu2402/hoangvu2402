@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.heading-img {
+    width: 100%;
+}
+
+.main {
+    background-color: #000;
+}
+
+
+.main-text {
+    font-size: 20px;
+    width: 80%;
+    color: #fff;
+    padding: 20px 20px 0px 20px;
+    font-weight: 300;
+
+}
+
+.main-title {
+    position: relative;
+    bottom: -16px;
+}
+
+.main-link {
+    color: rgb(245, 8, 8);
+}
+
+.main-pic {
+    width: 118px;
+}
+
+.footer {
+    width: 80%;
+    padding-top: 20%;
+}
+
+.footer-text {
+    color: #fff;
+    padding: 20px 20px 0px 20px;
+
+}
